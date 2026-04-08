@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.29610, -26.96026], [-55.31965, -26.87253]]
+      },
+      "properties": {
+        "time": "2020-06-27T00:00:00",
+        "u10": -0.7848,
+        "v10": 2.9243,
+        "ws10": 3.03,
+        "wd10": 164.98,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.18210, -26.93510], [-55.12670, -26.85120]]
+      },
+      "properties": {
+        "time": "2020-06-27T00:00:00",
+        "u10": 0.6240,
+        "v10": 2.7020,
+        "ws10": 2.81,
+        "wd10": 167.10,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.38840, -27.02000], [-55.44200, -26.94430]]
+      },
+      "properties": {
+        "time": "2020-06-27T00:00:00",
+        "u10": -1.1810,
+        "v10": 3.2210,
+        "ws10": 3.43,
+        "wd10": 159.86,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.29610, -26.96026], [-55.35050, -26.82010]]
+      },
+      "properties": {
+        "time": "2020-06-27T06:00:00",
+        "u10": -1.6040,
+        "v10": 4.3800,
+        "ws10": 4.66,
+        "wd10": 160.10,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.18210, -26.93510], [-55.07820, -26.83020]]
+      },
+      "properties": {
+        "time": "2020-06-27T06:00:00",
+        "u10": 1.1420,
+        "v10": 4.1350,
+        "ws10": 4.29,
+        "wd10": 172.54,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.38840, -27.02000], [-55.50650, -26.91040]]
+      },
+      "properties": {
+        "time": "2020-06-27T06:00:00",
+        "u10": -2.3240,
+        "v10": 4.5600,
+        "ws10": 5.12,
+        "wd10": 152.98,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.29610, -26.96026], [-55.28640, -26.77230]]
+      },
+      "properties": {
+        "time": "2020-06-27T12:00:00",
+        "u10": 0.1240,
+        "v10": 6.1200,
+        "ws10": 6.12,
+        "wd10": 178.84,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.18210, -26.93510], [-55.10450, -26.74580]]
+      },
+      "properties": {
+        "time": "2020-06-27T12:00:00",
+        "u10": 1.8010,
+        "v10": 5.5200,
+        "ws10": 5.81,
+        "wd10": 161.92,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.38840, -27.02000], [-55.46800, -26.80890]]
+      },
+      "properties": {
+        "time": "2020-06-27T12:00:00",
+        "u10": -1.9240,
+        "v10": 6.3100,
+        "ws10": 6.60,
+        "wd10": 163.04,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-27_12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.29610, -26.96026], [-55.25550, -26.85880]]
+      },
+      "properties": {
+        "time": "2020-06-28T00:00:00",
+        "u10": 0.4200,
+        "v10": 3.0400,
+        "ws10": 3.07,
+        "wd10": 172.14,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.18210, -26.93510], [-55.09040, -26.86610]]
+      },
+      "properties": {
+        "time": "2020-06-28T00:00:00",
+        "u10": 0.8800,
+        "v10": 2.4800,
+        "ws10": 2.63,
+        "wd10": 160.40,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.38840, -27.02000], [-55.43450, -26.92060]]
+      },
+      "properties": {
+        "time": "2020-06-28T00:00:00",
+        "u10": -0.9100,
+        "v10": 2.8300,
+        "ws10": 2.97,
+        "wd10": 162.21,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.29610, -26.96026], [-55.22180, -26.80400]]
+      },
+      "properties": {
+        "time": "2020-06-28T06:00:00",
+        "u10": 0.9600,
+        "v10": 4.6400,
+        "ws10": 4.74,
+        "wd10": 168.33,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.18210, -26.93510], [-55.04420, -26.79600]]
+      },
+      "properties": {
+        "time": "2020-06-28T06:00:00",
+        "u10": 1.9200,
+        "v10": 4.5200,
+        "ws10": 4.91,
+        "wd10": 156.98,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.38840, -27.02000], [-55.52210, -26.87210]]
+      },
+      "properties": {
+        "time": "2020-06-28T06:00:00",
+        "u10": -2.6100,
+        "v10": 4.8800,
+        "ws10": 5.53,
+        "wd10": 151.86,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.29610, -26.96026], [-55.20040, -26.72550]]
+      },
+      "properties": {
+        "time": "2020-06-28T12:00:00",
+        "u10": 2.2010,
+        "v10": 6.1200,
+        "ws10": 6.50,
+        "wd10": 160.22,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.18210, -26.93510], [-54.98600, -26.70100]]
+      },
+      "properties": {
+        "time": "2020-06-28T12:00:00",
+        "u10": 2.9600,
+        "v10": 5.9400,
+        "ws10": 6.64,
+        "wd10": 153.51,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[-55.38840, -27.02000], [-55.58010, -26.73420]]
+      },
+      "properties": {
+        "time": "2020-06-28T12:00:00",
+        "u10": -3.2100,
+        "v10": 6.8000,
+        "ws10": 7.52,
+        "wd10": 154.73,
+        "srid": 4674,
+        "source_file": "wind_poc_2020-06-28_12"
+      }
+    }
+  ]
+}
